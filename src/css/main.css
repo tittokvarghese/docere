@@ -1,0 +1,59 @@
+/* TJ TKV */
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+
+*{margin:0px;padding:0px;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box; }
+
+body{background-color:#FBFBFB;font:12px/18px Arial,FreeSans, Helvetica, sans-serif;color: #000000;}
+
+a{text-decoration:none;color:#0066CC;}
+a:hover{text-decoration:underline;}
+
+.Header1{height:auto;position:relative!important;right:0;left:0;overflow:visible;}
+.HeaderBody1{margin-left:auto;margin-right:auto;margin-top:auto;text-align:left;font-family: Arial, Helvetica, sans-serif;}
+
+
+
+.Content{margin-left:auto;margin-right:auto;text-align:left;} 
+.Content, .HeaderBody,.HeaderBody1,.ind_h1,.profileCover{width:1310px !important;}
+
+
+
+.opacity{opacity:.4!important;cursor:default!important;}
+
+
+.mtkv::before{display: block;position: absolute;content: '';top: 0;left: 0;bottom: 0;right: 0;z-index: 1;background-repeat: repeat;background-image: url(../img/pattern.png);}
+.msK {position: absolute;bottom: 0;top: 0;left: 0;right: 0;z-index: 2;background: rgba(0, 0, 0, 0.1);}
+.msKHome{height:100%;width:100%;display:inline-block;position:relative;z-index:2;background: rgba(0, 0, 0, 0.6);}
+.msKIndex{background: rgba(0, 0, 0, 0.3);}
+
+input,select,textarea{border:none;font-size:13px; padding:8px;border-radius:3px; }
+select{cursor:pointer;padding:5px;}
+textarea{resize:none;}
+/*input:focus, textarea:focus{-webkit-box-shadow: 0 0 5px #999999;-moz-box-shadow: 0 0 5px #999999;box-shadow: 0 0 5px #999999;border-color:#666666;}
+*/input,textarea{-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;font-family:Arial, Helvetica, sans-serif;
+-webkit-transition: -webkit-box-shadow 0.45s, border-color 0.45s ease-in-out;
+-moz-transition: -moz-box-shadow 0.45s, border-color 0.45s ease-in-out;
+transition: box-shadow 0.45s, border-color 0.45s ease-in-out; }
+
+
+
+
+
+
+.Special{padding:15px 18px 15px 18px;text-align:center;font-size:12px;font-weight:700;line-height:25px;cursor:pointer;display:inline-block;vertical-align:top;}
+.SpecialImg{width:40px;height:40px;border-radius:100%;background-color:#003366;}
+
+.LoginBut{text-align:center;color: #514135!important;font-family:Calibri !important;
+font-weight:700;letter-spacing:1px;border-radius:100px;margin-top:4px;line-height:35px;
+cursor:pointer;font-size:18px;background-color:#D6D6D6;border:none;}
+.error{ display:none;padding:;font-size:14px;color:#FFFFFF;font-weight: 700;margin-top:5px;margin-bottom:10px;background-color:#993300;border-radius:30px; line-height:35px;}
+
+
+
+.activeMenu{background-color:#FBFBFB;color:#000000;cursor:default !important;border-radius:3px 3px 0px 0px;}
+
+
+
+
+

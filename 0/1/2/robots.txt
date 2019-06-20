@@ -1,0 +1,62 @@
+User-agent: baiduspider
+Disallow: /main_docere/
+Disallow: /src/
+Disallow: /storage_docere/
+
+
+User-agent: Bingbot
+Disallow: /main_docere/
+Disallow: /src/
+Disallow: /storage_docere/
+
+
+User-agent: Googlebot
+Disallow: /main_docere/
+Disallow: /src/
+Disallow: /storage_docere/
+
+
+User-agent: msnbot
+Disallow: /main_docere/
+Disallow: /src/
+Disallow: /storage_docere/
+
+
+User-agent: naverbot
+Disallow: /main_docere/
+Disallow: /src/
+Disallow: /storage_docere/
+
+
+User-agent: seznambot
+Disallow: /main_docere/
+Disallow: /src/
+Disallow: /storage_docere/
+
+
+User-agent: Slurp
+Disallow: /main_docere/
+Disallow: /src/
+Disallow: /storage_docere/
+
+
+User-agent: teoma
+Disallow: /main_docere/
+Disallow: /src/
+Disallow: /storage_docere/
+
+
+User-agent: Yandex
+Disallow: /main_docere/
+Disallow: /src/
+Disallow: /storage_docere/
+
+
+User-agent: Yeti
+Disallow: /main_docere/
+Disallow: /src/
+Disallow: /storage_docere/
+
+
+User-agent: *
+Disallow: /
